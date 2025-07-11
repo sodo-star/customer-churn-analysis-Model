@@ -4,15 +4,18 @@ This project predicts customer churn using Logistic Regression and Random Forest
 
 ---
 
-## 📁 Files Included
+# Files Included
 - `customer_churn.ipynb` – Full analysis in Jupyter Notebook
 - `churn_data.csv` – Cleaned dataset used
 - `README.md` – Project overview and instructions
-- `requirements.txt` – Required Python libraries
+- `pdf` – Findings  And Explanation 
 
----
-
-## 🔧 How to Run
+# Tools Used
+1.`pandas`
+2.`numpy`
+3.`scikit-learn`
+4.`matplotlib`
+5.`seaborn`
 
 1. Clone the repository:
 ```bash
